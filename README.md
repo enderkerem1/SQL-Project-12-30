@@ -19,6 +19,14 @@ that could impact data integrity, reporting accuracy, and financial operations.
 - SQL (SQLite-compatible syntax)
 - GitHub for version control and documentation
 
+## How to Run
+1. Run `sql/01_create_tables.sql` to create tables
+2. Run `sql/02_insert_sample_data.sql` to insert sample data
+3. Run `sql/03_reconciliation_checks.sql` to perform reconciliation checks
+
+These scripts are written in SQLite-compatible SQL.
+
+
 ## Project Structure
 
 
